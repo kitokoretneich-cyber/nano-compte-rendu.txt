@@ -1,0 +1,15 @@
+TP – Commandes de base Linux
+
+PARTIE 1 : Commandes de base
+
+1. Quelle heure est-il ?
+Commande : date
+Résultat : vendredi 6 novembre 2026 à 14:30:41.
+
+2. Afficher la date dans une phrase.
+Commande : echo "La date d'aujourd'hui est : $(date)"
+Résultat : La date d'aujourd'hui est : vendredi 6 novembre 2026 à 14:31:42.
+
+3. Afficher le calendrier du mois.
+Commande : cal
+Résultat : calendrier de novembre 2026. Le jour 6 est mis en évidence.
